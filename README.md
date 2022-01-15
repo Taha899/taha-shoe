@@ -1,1 +1,1 @@
-# taha-shoe
+npm install and npm start
